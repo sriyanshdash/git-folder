@@ -1,5 +1,5 @@
-module simple_processor11(
-  input clk1,
+module simple_processor12(
+  input clk,
   input reset,
   input [7:0] instruction,
   input [7:0] data_in,
