@@ -1,4 +1,4 @@
-module simple_processor1(
+module simple_processor2(
   input clk,
   input reset,
   input [7:0] instruction,
